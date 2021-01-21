@@ -12,6 +12,8 @@ npm start
 
 ## Using gitpod.io
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dgaleally/sidekick-gitpod-example)
+
 Go to the following URL to start a gitpod workspace with this project:
 
 https://gitpod.io/#https://github.com/dgaleally/sidekick-gitpod-example
