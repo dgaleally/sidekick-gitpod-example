@@ -6,4 +6,4 @@ FROM gitpod/workspace-mongodb
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN apt-get install banner
+RUN brew install tree
