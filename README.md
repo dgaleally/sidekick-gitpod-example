@@ -5,7 +5,6 @@ An example of using gitpod with a simple Express application.  This application 
 ## Running
 
 ```bash
-cd src
 npm install
 npm start
 ```
